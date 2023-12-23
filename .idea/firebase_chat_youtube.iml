@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chat_mundo_do_celular/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_mundo_do_celular/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chat_mundo_do_celular/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_chat_youtube/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_chat_youtube/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_chat_youtube/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
